@@ -36,15 +36,17 @@ git clone https://github.com/<your-username>/JRF.git
 cd JRF
 pip install -r requirements.txt
 jupyter notebook JRF.ipynb
-
+```
 
 📄 Citation
 If you find this work or code useful, please cite our paper:
 
 Bibtex
+```
 @inproceedings{jain2026jointly,
   title={Jointly Robust Fairness: Overcoming Simultaneous Label and Attribute Noise},
   author={Jain, Gaurav},
   booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
   year={2026}
 }
+```
