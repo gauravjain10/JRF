@@ -34,7 +34,6 @@ Clone the repository and install the dependencies:
 ```bash
 git clone https://github.com/<your-username>/JRF.git
 cd JRF
-pip install -r requirements.txt
 jupyter notebook JRF.ipynb
 ```
 
