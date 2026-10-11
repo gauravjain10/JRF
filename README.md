@@ -32,7 +32,7 @@ This repository provides the complete implementation of the **Jointly Robust Fai
 ### Option 2: Run Locally
 Clone the repository and install the dependencies:
 ```bash
-git clone https://github.com/<your-username>/JRF.git
+git clone https://github.com/gauravjain10/JRF.git
 cd JRF
 jupyter notebook JRF.ipynb
 ```
